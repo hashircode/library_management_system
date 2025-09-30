@@ -1,1 +1,3 @@
-code README.md
+#📚 Library Management System
+
+This is a simple, yet fully functional, Library Management System built using Streamlit and Python. It is designed to manage a list of books, allowing users to add, view, search, update, and delete book entries directly through an interactive web interface. All data is maintained in the Streamlit session state, making it a perfect lightweight solution for temporary data management or as a foundation for a more complex application.
