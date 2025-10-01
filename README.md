@@ -2,6 +2,8 @@
 
 This is a simple, yet fully functional, Library Management System built using Streamlit and Python. It is designed to manage a list of books, allowing users to add, view, search, update, and delete book entries directly through an interactive web interface. All data is maintained in the Streamlit session state, making it a perfect lightweight solution for temporary data management or as a foundation for a more complex application.
 
+Scerrnshot
+
 ![img alt](https://github.com/hashircode/library_management_system/blob/d7844f7e96437e21836e06957554ca20267f3adb/ss.png)
 
 Features 
