@@ -6,7 +6,7 @@ Scerrnshot
 
 ![img alt](https://github.com/hashircode/library_management_system/blob/d7844f7e96437e21836e06957554ca20267f3adb/ss.png)
 
-[LinkedIn Post title](https://www.linkedin.com/posts/activity-7379569496451108865-RLRi?utm_source=share&utm_medium=member_android&rcm=ACoAAF0TD-UBgSlbFejRCD4tolGMvkZ_smPvzLY)
+[LinkedIn Post](https://www.linkedin.com/posts/activity-7379569496451108865-RLRi?utm_source=share&utm_medium=member_android&rcm=ACoAAF0TD-UBgSlbFejRCD4tolGMvkZ_smPvzLY)
 
 Feature
 
